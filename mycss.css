@@ -1,0 +1,22 @@
+.btn-primary {
+
+    position: absolute;
+    top: 89%;
+	background-color: rgb(37, 36, 36);
+	width: 140px;
+    opacity: 0.9;
+    font-family: 'Alegreya Sans', sans-serif;
+    border-radius: 12px;
+    box-shadow: 4px 4px 16px 0px #b3d7ff45, 0 6px 20px 0 rgba(0, 0, 0, 0.99);    
+    left: 46%  
+}
+
+h1 {
+	    position: absolute;
+	    color: #d3daecf2;
+	    font-family: 'Cinzel', serif;
+	    top: 30%;
+	    left: 28%
+
+
+}
